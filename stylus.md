@@ -18,9 +18,9 @@ Use brackets, semicolons and colons like in traditionnal css to stay 'portable'.
 Use this `BEM` notation :
 
 * Camelcase for module name.
-* `--` to announce a modifier
-* `-` to announce a child
-* `.is` + Camelcase to announce a state
+* `--` to announce a modifier.
+* `-` to announce a child.
+* `.is` + Camelcase to announce a state.
 
 Use cascade with & on two levels maximum.
 
