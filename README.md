@@ -1,4 +1,5 @@
 # coding-style
 Hellohikimori coding style
 
-* [stylus](stylus.md)
+* [Stylus](stylus.md)
+* [JavaScript (ES5)](javascript-es5.md)
