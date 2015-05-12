@@ -17,10 +17,10 @@ Use brackets, semicolons and colons like in traditionnal css to stay 'portable'.
 ## Structure
 Use this `BEM` notation :
 
-* Camelcase for module name.
+* PascalCase for module name.
 * `--` to announce a modifier.
 * `-` to announce a child.
-* `.is` + Camelcase to announce a state.
+* `.is` + camelCase to announce a state.
 
 Use cascade with & on two levels maximum.
 
