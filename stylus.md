@@ -1,17 +1,17 @@
 #Stylus coding style
 
 ## Style
-Use brackets, semicolons and colons like in traditionnal css to stay 'portable'.
+Use stylus bracket-less and colon-less style for more clarity.
 
 ```stylus
 /* Don't */
-.stuff
-  color blue
-
-/* Do */
 .stuff {
   color: blue;
 }
+
+/* Do */
+.stuff
+  color blue
 ```
 
 ## Structure
