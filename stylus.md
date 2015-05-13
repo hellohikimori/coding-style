@@ -25,20 +25,17 @@ Use this `BEM` notation :
 Use cascade with & on two levels maximum.
 
 ```stylus
-.MyButton {
-  position: relative;
-  opacity: 0.5;
+.MyButton
+  position relative
+  opacity 0.5
 
-  &--alert {
-    color: red;
-  }
-
-  &-border {
-    border: 1px solid white;
-  }
-
-  &.isActive {
-    opacity: 1;
-  }
-}
+  &--alert
+    color red
+  
+  &-border
+    border 1px solid white
+  
+  &.isActive
+    opacity 1
+  
 ```
